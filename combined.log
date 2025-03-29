@@ -1,0 +1,16 @@
+{"level":"error","message":"n2 is incorrectly defined","service":"add-service"}
+{"level":"info","message":"Parameters 11 and 5 received for addition","service":"add-service"}
+{"level":"info","message":"Parameters 11 and 5 received for addition","service":"add-service"}
+{"level":"info","message":"Operation:${operation}, 2 and 10 are recieved.","service":"calculato-service"}
+{"level":"info","message":"Operation:${operation}, 12 and 10 are recieved.","service":"calculato-service"}
+{"level":"info","message":"Operation:${operation}, 12 and 0 are recieved.","service":"calculato-service"}
+{"level":"info","message":"Operation:${operation}, 12 and 0 are recieved.","service":"calculato-service"}
+{"level":"info","message":"Operation:${operation}, 12 and 0 are recieved.","service":"calculato-service"}
+{"level":"info","message":"Operation:${operation}, 12 and 0 are recieved.","service":"calculato-service"}
+{"level":"info","message":"Operation:${operation}, 12 and 0 are recieved.","service":"calculato-service"}
+{"level":"info","message":"Operation:${operation}, 12 and 0 are recieved.","service":"calculato-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculato-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
+{"level":"error","message":"Invalid Operation","service":"calculator-service"}
+{"level":"error","message":"Invalid Operation","service":"calculator-service"}
+{"level":"error","message":"Invalid Operation. Please use 'add', 'sub', 'multi' or 'div'","service":"calculator-service"}

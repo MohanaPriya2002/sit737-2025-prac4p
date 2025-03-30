@@ -19,5 +19,5 @@
 {"level":"info","message":"Operation:${operation}, 12 and 0 are recieved.","service":"calculator-service"}
 {"level":"info","message":"Operation:${operation}, 12 and 4 are recieved.","service":"calculator-service"}
 {"level":"info","message":"Operation:div, '+n1+' and '+n2+' are recieved.","service":"calculator-service"}
-{"level":"info","message":"Operation:div, '+n1+' and '+n2+' are recieved.","service":"calculator-service"}
 {"level":"info","message":"Operation:sub, '+n1+' and '+n2+' are recieved.","service":"calculator-service"}
+{"level":"info","message":"Operation:add, '+n1+' and '+n2+' are recieved.","service":"calculator-service"}

@@ -55,7 +55,7 @@ app.get("/calculator", (req,res)=>{
         result=div(n1,n2);
         break;  
       default: logger.error("Invalid Operation. Please use 'add', 'sub', 'multi' or 'div'");
-      throw new Error("Invalid Operation")
+      throw new Error("Invalid Operation");
     }
 
     logger.info(`Operation:${operation}, '+n1+' and '+n2+' are recieved.`);

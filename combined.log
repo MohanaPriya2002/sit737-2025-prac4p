@@ -14,3 +14,8 @@
 {"level":"error","message":"Invalid Operation","service":"calculator-service"}
 {"level":"error","message":"Invalid Operation","service":"calculator-service"}
 {"level":"error","message":"Invalid Operation. Please use 'add', 'sub', 'multi' or 'div'","service":"calculator-service"}
+{"level":"info","message":"Operation:${operation}, 12 and 0 are recieved.","service":"calculator-service"}
+{"level":"info","message":"Operation:${operation}, 12 and 0 are recieved.","service":"calculator-service"}
+{"level":"info","message":"Operation:${operation}, 12 and 0 are recieved.","service":"calculator-service"}
+{"level":"info","message":"Operation:${operation}, 12 and 4 are recieved.","service":"calculator-service"}
+{"level":"info","message":"Operation:div, '+n1+' and '+n2+' are recieved.","service":"calculator-service"}

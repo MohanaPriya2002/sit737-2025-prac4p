@@ -1,4 +1,3 @@
-const { error } = require("console");
 const express= require("express");
 const app= express();
 const fs = require('fs');
@@ -59,11 +58,11 @@ app.get("/calculator", (req,res)=>{
       throw new Error("Invalid Operation")
     }
 
-    logger.info('Operation:${operation}, '+n1+' and '+n2+' are recieved.');
-    res.status(200).json({statuscocde:200, data: result }); 
+    logger.info(`Operation:${operation}, '+n1+' and '+n2+' are recieved.`);
+    res.status(200).json({statuscode:200, data: result }); 
     } catch(error) { 
         console.error(error)
-        res.status(500).json({statuscocde:500, msg: error.toString() })
+        res.status(500).json({statuscode:500, msg: error.toString() })
       }
 });
 
